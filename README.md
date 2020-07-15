@@ -1,16 +1,14 @@
-# grapebot_app
+# La fabuleuse GrapeBot App !
 
-A new Flutter project.
+La fameuse version portable du fantastique bot discord GrapeBot, maintenant sur GitHub !
+Développé intégralement par moi, MathLXIV, via Flutter ! 
 
-## Getting Started
+## Téléchargez la dernière version ici : 
 
-This project is a starting point for a Flutter application.
+https://github.com/MathLXIV/GrapeBot-App/releases/
 
-A few resources to get you started if this is your first Flutter project:
+(il suffit d'installer le fichier ".apk" le plus récent !)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Cliquez ici pour ajouter le bot GrapeBot à votre serveur discord !
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://discordapp.com/api/oauth2/authorize?client_id=521089823050825728&permissions=8&scope=bot
